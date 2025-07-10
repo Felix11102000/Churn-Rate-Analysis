@@ -37,6 +37,7 @@ Catatan: faktor dengan tanda *(R)* dianalisis dari model & visualisasi di R.---
 ## 🎨 3. Visualisasi dengan Power BI dan R
 
 📁 Lihat Dashboard Visualisasi **Power BI** di file: [`Visualisasi_ChurnRate.png`](./Visualisasi_ChurnRate.png)
+
 📁 Lihat  Visualisasi menggunakan **R** di file: [`Visualisasi_R.png`](./Visualisasi_R.png)
 
 Visualisasi dibuat untuk:
@@ -106,7 +107,6 @@ Visualisasi dibuat untuk:
 
 ## 📂 Struktur File
 
-project4/
 ├── README.md
 ├── churn_rate.sql
 ├── Analisis_ChurnRate.R
