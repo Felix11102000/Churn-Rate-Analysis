@@ -44,7 +44,8 @@ Visualisasi dibuat untuk:
 - Churn vs Contract
 - Churn vs Internet Service
 - Churn vs Tenure Group
-**dibuat dalam satu dashboard untuk mengontrol Churn rate
+
+**Visualisasi dibuat dalam satu dashboard untuk mengontrol Churn rate
 
 ---
 
